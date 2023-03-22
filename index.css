@@ -87,7 +87,7 @@ width: 40%;
 .resume{
     display: flex;
     justify-content: space-between;
-    width: 100%;
+    width: 90%;
     margin: auto;
     padding:2rem 4rem;
     background-color: antiquewhite;
@@ -128,7 +128,7 @@ width: 40%;
 
    display: flex;
     justify-content: space-between;
-    width: 100%;
+    width: 90%;
     margin: auto;
     padding:1rem 4rem;
     background-color: lightyellow;
